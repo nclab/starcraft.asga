@@ -140,7 +140,7 @@ Use
 
 Please cite
 
-> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. In <i>Proceedings of 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i> (pp. 270-277). doi: 10.1109/TAAI.2016.7880180.
+> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. In <i>Proceedings of 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i> (pp. 270-277). doi: [10.1109/TAAI.2016.7880180](http://dx.doi.org/10.1109/TAAI.2016.7880180).
 
 ----------
 
@@ -278,4 +278,4 @@ Please cite
 
 請引用
 
-> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. In <i>Proceedings of 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i> (pp. 270-277). doi: 10.1109/TAAI.2016.7880180.
+> Hsu, W.-L., & Chen, Y.-p. (2016). Learning to Select Actions in StarCraft with Genetic Algorithms. In <i>Proceedings of 2016 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2016)</i> (pp. 270-277). doi: [10.1109/TAAI.2016.7880180](http://dx.doi.org/10.1109/TAAI.2016.7880180).
